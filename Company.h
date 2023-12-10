@@ -56,7 +56,7 @@ public:
                 int id, STRT;
 
                 input >> time >> id >> STRT;
-
+ 
                 istringstream iss(time);
                 iss >> hours >> colon >> minutes;
 
